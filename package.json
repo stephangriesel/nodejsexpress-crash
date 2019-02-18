@@ -1,0 +1,24 @@
+{
+  "name": "customerapp",
+  "version": "1.0.0",
+  "description": "Customer Management App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephangriesel/nodejsexpress-crash.git"
+  },
+  "author": "Stephan Griesel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephangriesel/nodejsexpress-crash/issues"
+  },
+  "homepage": "https://github.com/stephangriesel/nodejsexpress-crash#readme"
+}
